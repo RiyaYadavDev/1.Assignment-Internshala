@@ -5,7 +5,7 @@ In this assignment,I have include a landing page implementation.
 
 ## Deployment
 * [Repo Name](https://github.com/RiyaYadavDev/Company_Assignment.git)
-* [URL]()
+* [URL](https://tinyurl.com/2b8jel5k)
 
 ## Getting Started or Installing
 * Install Any Editor VS Code, Sublime etc
