@@ -4,9 +4,9 @@
 In this assignment,I have include a landing page implementation.
 
 ## Deployment
-* [Repo Name](https://github.com/RiyaYadavDev/Company_Assignment.git)
+* [Repo Name](https://github.com/RiyaYadavDev/1.Assignment-Internshala)
 * [Netlify Live Host URL](https://deploy-preview-2--golden-pasca-c6f457.netlify.app/)
-* [Github Pages Live Host URL](https://riyayadavdev.github.io/Company_Assignment/)
+* [Github Pages Live Host URL](https://riyayadavdev.github.io/1.Assignment-Internshala/)
 
 ## Desktop View  
 ![Shop-Earthly](https://user-images.githubusercontent.com/122686981/217486798-c78f5517-405f-4642-b537-657da7c7f378.png)
