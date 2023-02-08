@@ -5,7 +5,9 @@ In this assignment,I have include a landing page implementation.
 
 ## Deployment
 * [Repo Name](https://github.com/RiyaYadavDev/Company_Assignment.git)
-* [URL](https://tinyurl.com/2b8jel5k)
+* ![URL]([https://tinyurl.com/2b8jel5k](https://www.awesomescreenshot.com/image/36899226?key=9d50922b29f79ae8deb8542ea7285e19))
+* [Netlify Live Host URL](https://deploy-preview-2--golden-pasca-c6f457.netlify.app/)
+* [Github Pages Live Host URL](https://riyayadavdev.github.io/Company_Assignment/)
 
 ## Getting Started or Installing
 * Install Any Editor VS Code, Sublime etc
