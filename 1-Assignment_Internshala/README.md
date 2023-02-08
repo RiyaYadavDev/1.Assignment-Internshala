@@ -1,23 +1,32 @@
->>== Navbar or header ==<<
+# 1.Assignment Internshala
+
+In this assignment i have include a landing page implementation.
+
+## Installation
+
+-Install Any Editor VS Code, Sublime etc
+-Install any browser like as chrome. firefox etc
+-clone from github [branch](https://github.com/RiyaYadavDev/Company_Assignment.git)
+
+## Features Include
+
+##### Navbar or header
 Home
 Shop
 About US
 Contact US
 Get In Touch
 
->>== Responsive Navbar or header  ==<<
+##### Responsive Navbar or header
 Logo
 Triple bar icon
 Dropdown menu
 
->>== Banner ==<<
-===
+##### Banner
 Sustainable products at affordable prices
-===
 Removing dead skin cells not only improves the look of your skin, it also sweeps away places where bacteria and soil could collect.
 
-
->>== Our Latest Products ==<<
+##### Our Latest Products
 HOT DEALS
 ===
 Sustainable products are those products that provide environmental, social and economic benefits while protecting public health and environment
@@ -30,7 +39,7 @@ Natural Bamboo Loofah
 ===
 So on
 
->>== Our Exclusive Products ==<<
+##### Our Exclusive Products
 Our Exclusive Products
 ===
 Sustainable products at affordable prices
@@ -40,8 +49,7 @@ Natural Bamboo Loofah
 ===
 So on
 
-
->>== Contact Us ==<<
+##### Contact Us
 GET IN TOUCH WITH US
 ===
 Removing dead skin cells not only improves the look of your skin, it also sweeps away places where bacteria and soil could collect.
@@ -55,10 +63,21 @@ Phone Number
 Email Address
 company@gmail.com
 
-
->>== footer ==<<
+##### footer
 ===
 © Copyright 2023 Riya All rights reserved.
 ===
 Social Icons
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+None
+
 
