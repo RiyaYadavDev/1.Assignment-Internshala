@@ -82,10 +82,6 @@ Contributors names Riya Yadav and contact info riyayadavdev@gmail.com
 
 Just Double Click on index.html file and choose any suitable file to open it.
 
-## Authors
-
-Contributors names Riya Yadav and contact info riyayadavdev@gmail.com
-
 ## Version History
 
 * 0.1
