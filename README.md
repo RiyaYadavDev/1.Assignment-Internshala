@@ -5,9 +5,14 @@ In this assignment,I have include a landing page implementation.
 
 ## Deployment
 * [Repo Name](https://github.com/RiyaYadavDev/Company_Assignment.git)
-* ![URL]([https://tinyurl.com/2b8jel5k](https://www.awesomescreenshot.com/image/36899226?key=9d50922b29f79ae8deb8542ea7285e19))
 * [Netlify Live Host URL](https://deploy-preview-2--golden-pasca-c6f457.netlify.app/)
 * [Github Pages Live Host URL](https://riyayadavdev.github.io/Company_Assignment/)
+
+## Desktop View  
+![Shop-Earthly](https://user-images.githubusercontent.com/122686981/217486798-c78f5517-405f-4642-b537-657da7c7f378.png)
+
+## Mobile View  
+![Shop-Earthly-Mobile](https://user-images.githubusercontent.com/122686981/217487457-b06cf3d6-095a-4233-b5ed-692aa1181516.png)
 
 ## Getting Started or Installing
 * Install Any Editor VS Code, Sublime etc
